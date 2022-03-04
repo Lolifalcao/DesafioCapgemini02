@@ -25,5 +25,8 @@ function encript(texto) {
         
     }
 
-    return cripto
+    console.log(cripto)
 }
+
+encript('TENHA UM BOM DIA')
+encript('OLA MUNDO')
