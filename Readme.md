@@ -1,4 +1,4 @@
-# Desafio Capgemini
+# Desafio Capgemini 02
 
 Este desafio foi respondido utilizando a linguagem JavaScript.
 
